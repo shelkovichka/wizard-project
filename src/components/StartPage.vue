@@ -13,7 +13,6 @@
     padding: 5%;
     width: 35%;
 }
-
 .start a {
     background-color: #85aac5;
     font-family: sans-serif;
