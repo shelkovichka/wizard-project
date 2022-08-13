@@ -15,3 +15,12 @@
 <img src="https://i.postimg.cc/MKb0cMyc/Screenshot-2022-08-13-at-16-46-20.png">
 <br></br>
 <p>At the last step wizard is replaced by a card with information about the created task.</p>
+
+<h2>Used technologies:</h2>
+<li>Vue 3</li>
+<li>Vue-cli</li>
+<li>Vuex</li>
+<li>Vue Router</li>
+<li>JavaScript</li>
+<li>CSS3</li>
+<li>Html5</li>
