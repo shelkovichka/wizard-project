@@ -1,24 +1,28 @@
 <template>
     <div class='page'>
-        <div class='start'>
-            <router-link :to="{name: 'title'}">Create a task!</router-link>
-        </div>
+        <router-link :to="{name: 'title'}">
+            <p>Create a task!</p>
+        </router-link>
     </div>
 </template>
 
 <style scoped>
-.start {
+a {
     text-align: center;
     background-color: #85aac5;
     padding: 5%;
     width: 35%;
+    text-decoration: none;
 }
-.start a {
+p {
     background-color: #85aac5;
     font-family: sans-serif;
     font-size: 1.5rem;
     text-decoration: none;
     text-transform: uppercase;
     color: white;
+}
+a:hover, a:hover p {
+    background-color: #0f1427;
 }
 </style>

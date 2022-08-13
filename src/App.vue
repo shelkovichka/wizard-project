@@ -76,4 +76,7 @@ input:focus {
     padding: 1.8vh 4vw;
     border-radius: 10px;
 }
+.back a:hover , .next a:hover, .create a:hover {
+    background-color: #0f1427;
+}
 </style>
